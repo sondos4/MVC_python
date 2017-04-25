@@ -1,6 +1,4 @@
 """
-Group C's MVC Assignment
-
 Below is the model which will take care of the translation between the data source and the controller
 """
 

@@ -1,6 +1,4 @@
 """
-Group C's MVC Assignment
-
 Below is the view which will take care of the user interface
 """
 

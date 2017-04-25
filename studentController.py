@@ -1,6 +1,4 @@
 """
-Group C's MVC Assignment
-
 Below is the Controller which will take care of the system functionalities
 
 Student Controller class.
